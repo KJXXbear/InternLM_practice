@@ -5,7 +5,7 @@
 # 大模型是发展通用人工智能的重要途径
 
 目前研究倾向于一个模型应对多模态、多任务场景
-
+![kaiyuan](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711887032124.png?raw=true)
 # 书生·浦语大模型开源历程
 
 * 20230607 InternLM 发布
@@ -13,6 +13,7 @@
   
 # 书生·浦语 2.0 体系
  面向不同使用需求每个规格包含三个模型版本：InternLM2-Base、InternLM2、InternLM2-Chat
+ ![InternLM2](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711887652238.png?raw=true)
  * 7B
       轻量且性能不俗，适用于研究和应用
  * 20B
@@ -26,7 +27,7 @@
 * 有针对性的数据补齐
 
 # 书生·浦语 2.0 的主要亮点
-
+![liangdian](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711887932803.png?raw=true)
   在重点能力评测上InternLM2-Chat-20B可以比肩GPT3.5
 
   * 贴心可靠的AI助手
@@ -37,9 +38,9 @@
   * 代码解释器：更上一层楼
   * 实用的数据分析功能
 # 从模型到应用典型流程
-
+![liucheng](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711888473400.png?raw=true)
 书生·浦语大模型提供全链路开源开放体系
-
+![kaiyuantixi](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711888772713.png?raw=true)
 **数据集**
 
 [数据集获取](https://opendatalab.org.cn/)
@@ -56,13 +57,10 @@
 
 **预训练**
 
-高可扩展
-
-极致性能优化
-
-兼容主流
-
-开箱即用
+* 高可扩展
+* 极致性能优化
+* 兼容主流
+* 开箱即用
 
 **微调**
 
@@ -96,6 +94,7 @@ LMDeploy:提供大模型在GPU上部署的全流程解决方案，包括模型�
 * 零样本泛化：多模态AI工具使用
   
 多模态智能体工具箱 AgentLego
+![AgentLego](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch1/1711890426746.png?raw=true)
 
 
 
