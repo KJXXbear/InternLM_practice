@@ -4,6 +4,6 @@
 
 Github仓库链接：[InternLM(github)](https://github.com/InternLM)
 
-书生·浦语第二期大模型教程笔记：[InternLM/Tutorial](https://github.com/internLM/tutorial)
+书生·浦语第二期大模型教程笔记：[InternLM/Tutorial/tree/camp2](https://github.com/InternLM/Tutorial/tree/camp2)
 
 算力平台：[InternStudio](https://studio.intern-ai.org.cn/)
