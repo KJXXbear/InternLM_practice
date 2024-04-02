@@ -26,3 +26,21 @@
 **运行结果**
 
 ![lagent_web_demo](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/lagent_web_demo.png?raw=true)
+
+# 进阶作业 #
+
+## 使用huggingface_python包下载InternLM2-Chat-7B模型和config.json文件到本地 ##
+
+
+>> 多次报同样错，排查之后了解因为网络原因可能需要换源，所以在[huggingface镜像站](https://hf-mirror.com/internlm/internlm2-chat-7b)同时下>>载了模型与json文件。
+
+## 完成浦语·灵笔2的图文创作 
+
+
+
+## 完成浦语·灵笔2的视觉问答 
+
+
+## 完成Lagent工具调用数据分析Demo部署
+
+
