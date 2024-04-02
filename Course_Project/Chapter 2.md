@@ -33,7 +33,7 @@
 
 ![error](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/download_error.png?raw=true)
 
->> 多次报同样错，排查之后了解因为网络原因可能需要换源，所以在[huggingface镜像站](https://hf-mirror.com/internlm/internlm2-chat-7b)同时下
+>> 多次报同样错，排查之后了解到可能是因为网络原因需要换源，所以在[huggingface镜像站](https://hf-mirror.com/internlm/internlm2-chat-7b)同时下
 >>载了模型与json文件。
 
 ![download](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/internlm2-chat-7b.png?raw=true)
@@ -45,11 +45,11 @@
 
 ## 完成浦语·灵笔2的视觉问答 
 
-![vision][https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/%E5%9B%BE%E6%96%87%E7%90%86%E8%A7%A3.png?raw=true]
+![vision](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/%E5%9B%BE%E6%96%87%E7%90%86%E8%A7%A3.png?raw=true)
 
 >模型能力有待加强，除了图片理解偏差之外，前面还有多次回答无法理解图片，在我给出是否能分析图片的prompt之后才开始对图片进行处理。
 
 ## 完成Lagent工具调用数据分析Demo部署
 
->[lagent](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/lagent_web_demo.png?raw=true)
+![lagent](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/lagent_web_demo.png?raw=true)
 
