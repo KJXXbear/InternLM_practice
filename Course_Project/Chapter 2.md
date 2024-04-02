@@ -33,8 +33,7 @@
 
 ![error](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/download_error.png?raw=true)
 
->> 多次报同样错，排查之后了解到可能是因为网络原因需要换源，所以在[huggingface镜像站](https://hf-mirror.com/internlm/internlm2-chat-7b)同时下
->>载了模型与json文件。
+>> 多次报同样错，排查之后了解到可能是因为网络原因需要换源，所以在[huggingface镜像站](https://hf-mirror.com/internlm/internlm2-chat-7b)同时下载了模型与json文件。
 
 ![download](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/internlm2-chat-7b.png?raw=true)
 
