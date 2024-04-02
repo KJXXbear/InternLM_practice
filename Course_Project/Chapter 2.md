@@ -38,7 +38,7 @@
 ![download](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/internlm2-chat-7b.png?raw=true)
 
 >>最后通过学习同期营员的笔记，发现是自己代码里面没有添加下载的地址，修改代码》》成功下载config.json文件
-![config]()
+![config](https://github.com/KJXXbear/InternLM_practice/blob/main/images/ch2/config.json.png?raw=true)
 
 ## 完成浦语·灵笔2的图文创作 
 
